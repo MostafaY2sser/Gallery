@@ -52,7 +52,7 @@ To run this application locally, follow these steps:
 To start the development server, run:
 
 ```bash
-npm start
+npm run dev
 ```
 
 Open your browser and go to `http://localhost:3000` to view the application.

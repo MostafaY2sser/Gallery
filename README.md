@@ -2,9 +2,6 @@
 
 This is a responsive image gallery project built with React. It allows users to view images in a fullscreen slider with navigation controls.
 
-## Demo
-
-[Live Demo](https://link-to-live-demo.com)
 
 ## Table of Contents
 
